@@ -74,30 +74,31 @@
 
 //Activity 6
 
-let bobsFollowers = [
-    "Safeer",
-    "Nora",
-    "Xavier",
-    "Brian"
-];
+// let bobsFollowers = [
+//     "Safeer",
+//     "Nora",
+//     "Xavier",
+//     "Brian"
+// ];
 
-let hannahsFollowers = [
-    "Peter",
-    "Nora",
-    "Xavier",
-    "Harry"
-];
+// let hannahsFollowers = [
+//     "Peter",
+//     "Nora",
+//     "Xavier",
+//     "Harry"
+// ];
 
-for(let i = 0; i < bobsFollowers.length; i++)
-{
-    for(let j = 0; j < hannahsFollowers.length; j++)
-    {
-        if(hannahsFollowers[j] == bobsFollowers[i])
-        {
-            console.log(hannahsFollowers[j]);
-        }
-    }
-}
+// for(let i = 0; i < bobsFollowers.length; i++)
+// {
+//     for(let j = 0; j < hannahsFollowers.length; j++)
+//     {
+//         if(hannahsFollowers[j] == bobsFollowers[i])
+//         {
+//             console.log(hannahsFollowers[j]);
+//         }
+//     }
+// }
 
 //Activity 7
+
 
