@@ -1,5 +1,13 @@
 //Activity 1
-
-//Activity 2
-
-//Activity 3
+ 
+console.log('   |   |   ');
+console.log('   |   |   ');
+console.log('   |   |   ');
+console.log('-----------');
+console.log('   |   |   ');
+console.log('   |   |   ');
+console.log('   |   |   ');
+console.log('-----------');
+console.log('   |   |   ');
+console.log('   |   |   ');
+console.log('   |   |   ');
